@@ -78,4 +78,4 @@
 ------------
 
 ## Result
-![](https://blog.roboflow.ai/content/images/2020/02/detection.gif)
+[https://blog.roboflow.ai/content/images/2020/02/detection.gif](https://blog.roboflow.ai/content/images/2020/02/detection.gif)
