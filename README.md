@@ -1,5 +1,8 @@
 # yolov5
-detecting pistol
 
-#python train.py --img 416 --batch 16 --epochs 50 --data /content/dataset/data.yaml --cfg ./models/yolov5s.yaml --weights yolov5s.pt --name gun_yolov5s_results
-# .pt is weights
+#download data set
+
+!curl -L "https://public.roboflow.com/ds/gpO8CtAgc3?key=bu9xmHqjij" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
+
+
+#make dir 'dataset'
